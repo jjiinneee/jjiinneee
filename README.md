@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HIHI
+# Hi~~
+
+ - 이은진의 깃허브
+ 
